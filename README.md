@@ -2,7 +2,7 @@
 
 **Summary**
 
-Finance professional with 8+ years experience in commodity markets trading and research. Primary expertise is within supply & demand analysis and time series forecasting. Currently finishing a master's degree in Applied Data Science at the University of Michigan and open to work opportunities.
+Finance professional with experience in both physical and derivatives commodity markets trading & research. Primary expertise is in grains & oilseeds with a focus on relative value spread trading, supply & demand analysis and time series forecasting. Currently finishing a master's degree in Applied Data Science at the University of Michigan and open to work opportunities.
 
 **Tech skills**
 
