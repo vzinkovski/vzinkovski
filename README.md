@@ -6,4 +6,4 @@ Finance professional with experience in both physical & derivatives commodities 
 
 **Tech skills**
 
-Python, SQL, NumPy, pandas, Polars, PySpark, Matplotlib, seaborn, Altair, statsmodels, pmdarima, scikit-learn, XGBoost, LightGBM, TensorFlow/Keras, PyTorch, Optuna, Bash, regex, Tableau
+Python, SQL, NumPy, pandas, Polars, PySpark, Matplotlib, seaborn, Altair, statsmodels, pmdarima, scikit-learn, XGBoost, LightGBM, TensorFlow/Keras, PyTorch, Optuna, Darts, Bash, regex
